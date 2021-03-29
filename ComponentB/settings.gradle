@@ -1,0 +1,4 @@
+include ':service'
+include ':comB'
+include ':app'
+rootProject.name = "ComponentB"

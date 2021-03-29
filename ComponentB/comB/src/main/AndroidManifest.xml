@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gfq.component_app_template.comb">
+
+    <application>
+
+        <meta-data
+            android:name="com.gfq.component_app_template.comb.ComponentBApplication"
+            android:value="IModuleApplication,6" />
+
+
+        <activity android:name="com.gfq.component_app_template.comb.ui.ComponentBTestActivity" />
+    </application>
+</manifest>
