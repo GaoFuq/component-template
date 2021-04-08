@@ -53,4 +53,5 @@ dependencies {
 
     implementation project(':common')
 
+    implementation "androidx.recyclerview:recyclerview:1.1.0"
 }
