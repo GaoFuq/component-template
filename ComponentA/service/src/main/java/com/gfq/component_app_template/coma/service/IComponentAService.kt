@@ -1,6 +1,7 @@
 package com.gfq.component_app_template.coma.service
 
 import android.content.Context
+import androidx.fragment.app.Fragment
 import java.util.*
 
 /**
@@ -22,4 +23,5 @@ interface IComponentAService {
 
     fun startComponentATestActivity(context: Context)
 
+    fun getHomeFragment(): Fragment
 }

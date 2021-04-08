@@ -3,7 +3,6 @@ package com.gfq.component_app_template.coma.app
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.gfq.component_app_template.coma.service.IComASerChild
 import com.gfq.component_app_template.coma.service.IComponentAService
 
 class MainActivity : AppCompatActivity() {
